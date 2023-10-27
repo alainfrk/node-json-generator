@@ -1,0 +1,14 @@
+{
+  "name": "node-json-generator",
+  "version": "1.0.0",
+  "description": "Locally generate Json file with fake data",
+  "main": "jsongen.js",
+  "scripts": {
+    "dev": "node jsongen.js"
+  },
+  "author": "Alain",
+  "license": "ISC",
+  "dependencies": {
+    "chance": "^1.1.11"
+  }
+}
